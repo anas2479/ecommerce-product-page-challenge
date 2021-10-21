@@ -1,4 +1,4 @@
 /node_modules/
-/public/build/
+#/public/build/ - I'm including build so github pages can access it. If you are going to use Netlify, then delete and ignore this folder since Netlify will rebuild it.
 
 .DS_Store
