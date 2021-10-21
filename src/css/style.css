@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body{
+    font-family: 'Kumbh Sans', sans-serif;
+}
+
+.menu-link{
+    @apply text-gray-600 mr-4
+}
